@@ -1,0 +1,25 @@
+Enter the purchase total: 16
+If you are a teacher please enter a 1, otherwise enter a 0: 0
+
+Total purchases             $ 16.00 
+Sales tax (5%)                 0.80 
+Total                       $ 16.80 
+
+Enter the purchase total: 97
+If you are a teacher please enter a 1, otherwise enter a 0: 1
+
+Total purchases             $ 97.00 
+Teacher's discount (10%)    9.70 
+Discounted total            87.30 
+Sales tax (5%)              4.37 
+Total                       $ 91.66 
+
+Enter the purchase total: 122
+If you are a teacher please enter a 1, otherwise enter a 0: 1
+
+Total purchases             $ 122.00 
+Teacher's discount (12%)    14.64 
+Discounted total            107.36 
+Sales tax (5%)              5.37 
+Total                       $ 112.73 
+

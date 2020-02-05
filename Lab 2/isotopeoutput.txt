@@ -1,0 +1,6 @@
+Enter the amount in grams of the isotope: 150
+Year 1 | 131.523589 grams
+Year 2 | 101.117991 grams
+Year 3 | 68.165654 grams
+Year 4 | 40.291661 grams
+Year 5 | 20.882242 grams

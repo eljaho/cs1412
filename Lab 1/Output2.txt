@@ -1,0 +1,6 @@
+Enter the purchase price: 50000
+Enter the down payment: 500
+Enter the annual interest rate (percent): 12
+Enter the total number of payments: 36
+You borrowed $49500.00 and your monthly payment is $1644.11. 
+
