@@ -1,0 +1,82 @@
+Enter paycode ( -1 to end): 1
+Manager selected.
+Enter weekly salary: $600
+The manager's pay is $600.00.
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 0
+Total number of commission workers paid: 0
+Total number of piece workers paid: 0
+
+Enter paycode ( -1 to end): 2
+Worker selected.
+Enter hours worked: 40
+Enter hourly wage: 10
+The hourly workers pay is $400.00.
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 1
+Total number of commission workers paid: 0
+Total number of piece workers paid: 0
+
+Enter paycode ( -1 to end): 2
+Worker selected.
+Enter hours worked: 50
+Enter hourly wage: 10
+The hourly workers pay is $550.00.
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 0
+Total number of piece workers paid: 0
+
+Enter paycode ( -1 to end): 3
+Commisioned worker selected.
+Enter gross weekly sales: $4000
+The commisioned workers pay is $478.00.
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 1
+Total number of piece workers paid: 0
+
+Enter paycode ( -1 to end): 4
+Piece worker selected.
+Enter number of items produced: 100
+The piece workers pay is: $1068.00.
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 1
+Total number of piece workers paid: 1
+
+Enter paycode ( -1 to end): 7
+Invalid pay code
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 1
+Total number of piece workers paid: 1
+
+Enter paycode ( -1 to end): -2
+Invalid pay code
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 1
+Total number of piece workers paid: 1
+
+Enter paycode ( -1 to end): 0
+Invalid pay code
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 1
+Total number of piece workers paid: 1
+
+Enter paycode ( -1 to end): -1
+
+Total number of managers paid: 1
+Total number of hourly workers paid: 2
+Total number of commission workers paid: 1
+Total number of piece workers paid: 1
