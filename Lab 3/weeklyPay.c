@@ -8,18 +8,18 @@
 
 int main()
 {
-	double pay;				//Employee weekly pay
+	double pay;			//Employee weekly pay
 	double salary;			//Employee salary provided by user
 	double sales;			//Gross sales
 	double hourlyWage;		//Hourly hourly
-	int ot;					//Overtime hours
-	int hours;				//Hours worked
+	int ot;				//Overtime hours
+	int hours;			//Hours worked
 	int managers = 0;		//Number of managers
-	int items;				//Number of items
+	int items;			//Number of items
 	int workers = 0;		//Number of workers
 	int comWorkers = 0;		//Number of commisioned workers
-	int pieceWorkers = 0;	//Number of piece workers
-	int code;				//Employee code
+	int pieceWorkers = 0;		//Number of piece workers
+	int code;			//Employee code
 
 	//Loops until user exits with -1, keeps track of employees paid by incrementing +1, calculations vary between employees
 	while(code != -1)
