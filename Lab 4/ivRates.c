@@ -4,7 +4,7 @@
 // SPECIFICATION:        Program assists with various calculations for intravenous rates.
 // FOR:                  CS 1412 Programming Principles II Section 002
 
-//Quite unclear as to what exactly some of the functions are supposed to be doing.
+//Quite unclear as to what exactly some of the functions listed in the handout are supposed to be doing.
 //I assumed the example text in blue were input, and that the concentrations were provided by the user
 //	thus the functions having to do with concentrations were highly confusing or deemed unnecessary.
 
