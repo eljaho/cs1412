@@ -1,0 +1,14 @@
++ 5.0
+result so far is 5.0
+^2
+result so far is 25.0
+/ 2.0
+result so far is 12.5
+* 9
+result so far is 112.5
+/ 12
+result so far is 9.4
+^3
+result so far is 824.0
+Q 0
+final result is 824.0
