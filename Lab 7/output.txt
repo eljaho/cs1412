@@ -1,0 +1,20 @@
+Original list
+---------------------------
+Ryan, Elizabeth 62
+McIntyre, Osborne 84
+DuMond, Kristin 18
+Larson, Lois 42
+Thorpe, Trinity 15
+Ruiz, Pedro 35
+
+Youngest: Thorpe, Trinity, 15
+Age Average: 42.67
+
+Alphabetized list
+---------------------------
+DuMond, Kristin
+Larson, Lois
+McIntyre, Osborne
+Ruiz, Pedro
+Ryan, Elizabeth
+Thorpe, Trinity
