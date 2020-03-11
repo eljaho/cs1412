@@ -1,0 +1,30 @@
+Input the number of elements to store in the array: 4  
+Input 4 elements to the array:
+element - 0:25
+element - 1:35
+element - 2:40
+element - 3:15
+Input the number to search : 15
+Found number 15 in index 0.
+
+Input the number of elements to store in the array: 7
+Input 7 elements to the array:
+element - 0:6
+element - 1:9
+element - 2:10 
+element - 3:17
+element - 4:89
+element - 5:12
+element - 6:57
+Input the number to search : 12
+Found number 12 in index 3.
+
+Input the number of elements to store in the array: 5
+Input 5 elements to the array:
+element - 0:9
+element - 1:8
+element - 2:7
+element - 3:6
+element - 4:34
+Input the number to search : 7
+Found number 7 in index 1.
