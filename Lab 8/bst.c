@@ -11,10 +11,10 @@ int findNumber(int *elements, int array[], int *number, int *halfway);
 
 int main()
 {
-    int *array, elements, number;                                   //Array, number of elements, and number to find in array
+    int *array, elements, number;   //Array, number of elements, and number to find in array
     getData(&elements, array, &number);
     sort(array, elements);
-    int halfway = (elements - 1) / 2;                               //Halfway index of an array
+    int halfway = (elements - 1) / 2;   //Halfway index of an array
     int index = findNumber(&elements, array, &number, &halfway);    //Index the provided number was found at
 
     printf("Found number %d in index %d.\n", number, index);
@@ -64,12 +64,12 @@ int findNumber(int *elements, int array[], int *number, int *halfway)
     {
         return *halfway;
     }
-    else if(array[*halfway] > *number)  //If halfway index integer is larger than search number: subtract one from halfway index, call itself
+    else if(array[*halfway] > *number)  //If halfway index value is larger than search number: subtract one from halfway index, call itself
     {
         *halfway -= 1;
         return findNumber(elements, array, number, halfway);
     }
-    else                                //If halfway index integer is smaller than search number: add one to halfway index, call itself
+    else    //If halfway index value is smaller than search number: add one to halfway index, call itself
     {
         *halfway += 1;
         return findNumber(elements, array, number, halfway);
