@@ -1,0 +1,31 @@
+Enter first name: Robert
+Enter last name: Paulson
+Enter month of birth (1-12): 3
+Enter day of birth (1-31): 4
+Enter year of birth: 1989
+Enter gender (m or f): m
+Enter height (in Centimeters): 183
+Enter weight (in Kilograms): 200
+
+
+Name: Robert Paulson
+Date Of Birth: 3/4/1989
+Age: 31
+BMI (body mass index): 60
+Maximum Heart Rate: 189
+Target Heart Rate: 95 - 161
+Height: 183 Centimeters
+Weight: 200 Kilograms
+
+
+AGE             TARGET ZONE             AVERAGE MAX
+20 years        100-170 bpm             200 bpm
+30 years        95-162  bpm             190 bpm
+35 years        93-157  bpm             185 bpm
+40 years        90-153  bpm             180 bpm
+45 years        88-149  bpm             175 bpm
+50 years        85-145  bpm             170 bpm
+55 years        83-140  bpm             165 bpm
+60 years        80-136  bpm             160 bpm
+65 years        78-132  bpm             155 bpm
+70 years        75-128  bpm             150 bpm
