@@ -1,11 +1,1 @@
-Flight number: 13
-Leaving from: Portland
-Destination: Dallas
-Date of departure: 120120
-Time of departure: 1020
-Date of arrival: 120120
-Time of arrival: 1520
-Number of first-class seats still available: 5
-Number of first-class seats sold: 29
-Number of coach seats still available: 9
-Number of coach seats sold: 45
+Reservation has been cancelled.

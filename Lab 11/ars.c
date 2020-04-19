@@ -7,6 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <unistd.h>
 
 struct reservation
 {
@@ -29,6 +30,7 @@ void make_reservation(struct reservation customer)
 {
 	FILE *o;
 	o = fopen("reservation.txt", "w");
+
 	printf("\nEnter flight number: ");
 	scanf(" %d", &customer.flightNo);
 	fprintf(o, "Flight number: %d", customer.flightNo);
@@ -106,7 +108,7 @@ int main()
 {
 	int selection;
 	
-	printf("Schedule your reservation by entering 1.\nUpdate a reservation by entering 2.\nCancel a reservation by entering 3.\n\nSelection (1, 2, or 3): ");
+	printf("1. Schedule your reservation\n2. Update a reservation\n3. Cancel a reservation.\n\nSelection (1, 2, or 3): ");
 	scanf("%d", &selection);
 	switch(selection)
 	{
@@ -114,10 +116,10 @@ int main()
 			make_reservation(customer);
 			break;
 		case 2:
-			cancel_reservation(customer);
+			make_reservation(customer);
 			break;
 		case 3:
-			make_reservation(customer);
+			cancel_reservation(customer);
 			break;
 		default:
 			printf("Invalid selection.");
