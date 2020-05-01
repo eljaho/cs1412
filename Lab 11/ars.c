@@ -2,7 +2,7 @@
 // AUTHOR:               Elias Howell
 // FILENAME:             ars.c
 // SPECIFICATION:        Program creates a reservation for a user by receiving input and creating/updating reservation.txt
-//							by storing that information.
+//												by storing that information.
 // FOR:                  CS 1412 Programming Principles II Section 002
 #include <stdio.h>
 #include <stdlib.h>
@@ -107,7 +107,7 @@ void cancel_reservation(struct reservation customer)
 int main()
 {
 	int selection;
-	
+
 	printf("1. Schedule your reservation\n2. Update a reservation\n3. Cancel a reservation.\n\nSelection (1, 2, or 3): ");
 	scanf("%d", &selection);
 	switch(selection)
@@ -128,3 +128,4 @@ int main()
 
 	return 0;
 }
+//test
